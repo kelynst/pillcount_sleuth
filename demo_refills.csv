@@ -1,0 +1,6 @@
+patient_id,medication,strength_mg,fill_date,qty_dispensed,days_supply,prescribed_daily_dose,count_check_date,observed_pills_remaining
+1001,Lisinopril,10,2025-01-01,30,30,1,2025-01-15,12
+1002,Atorvastatin,20,2025-01-05,90,90,1,,
+1003,Metformin,500,2025-01-10,60,30,2,2025-01-25,20
+1004,Sertraline,50,2025-01-12,30,30,1,2025-01-28,5
+1005,Amoxicillin,500,2025-01-15,21,7,3,2025-01-18,10
